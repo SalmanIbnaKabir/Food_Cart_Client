@@ -49,11 +49,11 @@ const SignUp = () => {
             <input type="password" placeholder="password" name='password' className="input input-bordered" required />
           </div>
           <div className="form-control mt-6">
-            <input type="submit" value="Login" className='btn btn-primary' />
+            <input type="submit" value="Sign Up" className='btn btn-primary' />
 
           </div>
         </form>
-        <p className='text-center'>New to Website ? <Link className='text-green-600 font-bold  ' to='/login'> Login</Link></p>
+        <p className='text-center'>Have A Account ? <Link className='text-green-600 font-bold  ' to='/login'> Login</Link></p>
 
       </div>
     </div>
