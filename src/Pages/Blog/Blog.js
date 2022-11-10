@@ -1,4 +1,5 @@
 import React from 'react';
+import './Blog.css';
 
 const Blog = () => {
   return (
@@ -12,11 +13,13 @@ const Blog = () => {
         <p>JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
 
         </p>
+        
         <p>1. User sign-in using username and password or google/facebook.</p>
         <p>2. Authentication server verifies the credentials and issues a jwt signed using either a secret salt or a private key.</p>
         <p>3. User's Client uses the JWT to access protected resources by passing the JWT in HTTP Authorization header.</p>
         <p>4. Resource server then verifies the authenticity of the token using the secret salt/ public key.</p>
       </div>
+
       <div className='drop-shadow-2xl p-5 my-5'>
         <h1 className='text-2xl mb-3'>What is the difference between javascript and NodeJS?</h1>
         <p>
