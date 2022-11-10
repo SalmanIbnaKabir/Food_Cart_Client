@@ -16,9 +16,8 @@ const GoogleLogin = () => {
   }
   return (
     <div>
-      <p className='text-center'>Social Login</p>
-      <p className='text-center font-extrabold'>
-        <button className='btn-ghost btn' onClick={handleGoogleSignIn}><span className='text-blue-600'>G</span>
+      <p className='text-center'>
+        <button className='btn-ghost btn text-xl' onClick={handleGoogleSignIn}><span className='text-blue-600'>G</span>
           <span className='text-red-600'>o</span>
           <span className='text-yellow-500'>o</span>
           <span className='text-blue-600'>
@@ -27,6 +26,7 @@ const GoogleLogin = () => {
           <span className='text-green-700'>l</span>
           <span className='text-red-600'>e</span>
         </button>
+        Login
 
 
       </p>
