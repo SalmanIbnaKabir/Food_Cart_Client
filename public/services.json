@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Burger",
+    "img": "https://ibb.co/6cKqJKX",
+    "price": "10",
+    "description": "Shortened in length, the term Burger is used to describe a popular sandwich made from ground meats that are formed into a patty, cooked, and placed between two halves of a bun. Although the most common Burger is made with meat, there are many alternatives that do not include meat, such as tofu or ground vegetables. When made with beef, the meat is ground and blended together to form the patty. Some of the cuts of beef that can be ground, include meat from the chuck, the brisket, the plate and/or flank, which are typically referred to as hamburger. Depending on the cuts of beef that are ground for the meat, hamburger can be purchased with different amounts of fat content. The more expensive ground beef will contain less fat. A Burger sandwich is also made with a variety of ground foods which do not include beef. Some of the most common meats or foods are lamb, pork, buffalo, venison, elk, chicken, turkey, ostrich, fish, shellfish, wild game, tofu, and vegetables",
+    "menu_id": "01"
+  },
+  {
+    "title": "Full Chicken ",
+    "img": "https://ibb.co/mcLNLhX",
+    "price": "40",
+    "description": "The moment I smell chicken roasting away in the oven, it makes me feel all warm and fuzzy inside. It makes me think of home and my Mom. Here’s how we make it in our kitchen. Making whole roasted chicken at home is simple and something you should know how to do. We’re sharing a basic method for how to do it. Find our best tips for making it below.",
+    "menu_id": "02"
+  },
+  {
+    "title": "Fried Chicken",
+    "img": "https://ibb.co/MNDvBzB",
+    "price": "20",
+    "description": "Fried chicken, also known as Southern fried chicken, is a dish consisting of chicken pieces that have been coated with seasoned flour or batter and pan-fried, deep fried, pressure fried, or air fried. The breading adds a crisp coating or crust to the exterior of the chicken while retaining juices in the meat.",
+    "menu_id": "03"
+  },
+  {
+    "title": "Chicken Shahi Curry",
+    "img": "https://ibb.co/rwcn5Q0",
+    "price": "60",
+    "description": "Shahi Chicken Korma a dish that is rich, creamy & so full of flavors. Chicken braised in rich & creamy gravy of yogurt, cashew nuts n browned onions and flavored with a few blend of spices n saffron. The korma is so fragrant, mildly spiced, with that perfect heat from the curry aftertaste.2 years yesterday since you are gone and not even a single goes by without remembering you Papa. Remembering you is easy I do it every day. But missing you is a heartache that will never go away. I just can’t stop myself from talking you in my posts that I blog at Fingers Are For Burning. You have been my inspiration behind everything I do. Miss your finger licking good food so much; wish you could cook for me again. The best Chef ever I knew. Yesterday I cooked a everything you liked. And yes one dessert you loved most, kheer (rice pudding). Guys have you checked out my Rice Pudding With Salted Caramel; it is the best kheer recipe you will ever find. An all time favorite with VK & my friends.",
+    "menu_id": "04"
+  },
+  {
+    "title": "Kacci Biriyani",
+    "img": "https://ibb.co/c2N9gsx",
+    "price": "80",
+    "description": "Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations. The word “biryani” itself comes from the word “birian,” a Persian term which translates to “fried before cooking.” Indeed, the roots of this dish have been traced by notable historians to modern day Persia, with appearances in notes under various names as early as 2 CE. The biryani recipe was then much simplified in order to keep it viable during travel. Once the dish reached India, it blossomed into something entirely new. The story goes that Mumtaz Mahal, a Queen of Shah Jahan, visited an army barrack and found the soldiers there to be heavily undernourished. She demanded the barrack’s cook provide the soldiers with a dish that was nutritious and had all the meat, rice, and spices needed to restore their energy. According to legend, this is how the dish first came to India. As various regions across Southern Asia adopted the recipe, it grew and changed to express cultures’ values; leading to the diverse selection of biryani dishes that exist today.",
+    "menu_id": "05"
+  },
+  {
+    "title": "Fish Curry",
+    "img": "https://ibb.co/qjQr6c0",
+    "price": "70",
+    "description": "Fish head curry is a spicy, curried dish unique to Singapore. Blending the spices of a typical South Indian fish curry with the fish head, the dish is a delicacy among the Chinese.  The popularity of fish head curry drew enterprising Chinese chefs to experiment with the dish. One such pioneering chef was Hoong. Ah Kong, who modified the Indian recipe at his first restaurant, Chin Wah Heng, in 1951. His version was made with a moderation of spices and by steaming the fish head first.6 ",
+    "menu_id": "06"
+  }
+]

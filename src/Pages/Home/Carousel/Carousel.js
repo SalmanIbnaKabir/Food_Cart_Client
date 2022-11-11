@@ -5,7 +5,7 @@ import img3 from '../.././../assets/Carousel/home-img-3.png';
 
 const Carousel = () => {
   return (
-    <div className="carousel w-full py-8">
+    <div className="carousel w-full py-8 mt-5">
       <div id="slide1" className="carousel-item relative w-full">
         <div className="hero ">
           <div className="hero-content flex-col lg:flex-row-reverse">
