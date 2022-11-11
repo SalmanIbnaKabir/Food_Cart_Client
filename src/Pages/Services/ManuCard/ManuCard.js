@@ -19,7 +19,7 @@ const ManuCard = ({ service }) => {
 
         <div className="card-actions justify-between">
           <button className='btn btn-primary'>Order</button>
-          <button className='btn btn-primary'>Details</button>
+          <button className='btn btn-primary'><Link to={`services/${_id}`}>Details</Link></button>
         </div>
       </div>
     </div>

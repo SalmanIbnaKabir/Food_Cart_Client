@@ -1,5 +1,6 @@
 import React from 'react';
 import { PhotoProvider, PhotoView } from 'react-photo-view';
+import { Link } from 'react-router-dom';
 
 const DetailsCard = ({ service }) => {
   const { title, img, price, description, _id } = service
@@ -17,7 +18,7 @@ const DetailsCard = ({ service }) => {
 
         <div className="card-actions justify-between">
           <button className='btn btn-primary'>Order</button>
-          <button className='btn btn-primary'>Details</button>
+          <button className='btn btn-primary'><Link to={`/services/services/${_id}`}>Details</Link></button>
         </div>
       </div>
     </div>
