@@ -4,7 +4,7 @@ import { useLoaderData } from 'react-router-dom';
 import ServiceReview from '../../ServiceReview/ServiceReview';
 
 const ServiceDetails = () => {
-  const { title, img, price, description, _id } = useLoaderData()
+  const { title, img, price, description } = useLoaderData()
   return (
     <div className='grid grid-cols-1 md:grid-cols-2 my-8'>
       <div className="card card-compact w-96 bg-base-100 shadow-xl">
@@ -24,7 +24,9 @@ const ServiceDetails = () => {
         </div>
       </div>
       <div>
-        <ServiceReview></ServiceReview>
+        <ServiceReview
+          title={title}
+        ></ServiceReview>
       </div>
 
     </div>

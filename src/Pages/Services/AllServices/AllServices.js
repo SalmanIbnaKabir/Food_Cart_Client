@@ -6,7 +6,7 @@ const AllServices = () => {
   const [services, setServices] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:5000/services/services')
+    fetch('https://assignment-11-server-mocha.vercel.app/services/services')
       .then(res => res.json())
       .then(data => setServices(data))
   }, [])

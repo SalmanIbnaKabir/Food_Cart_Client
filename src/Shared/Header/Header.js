@@ -17,9 +17,9 @@ const Header = () => {
     {
       user?.uid ?
         <>
-          <li className='font-semibold'><Link to='/'>My Review</Link></li>
+          <li className='font-semibold'><Link to='/myreview'>My Review</Link></li>
           <li className='font-semibold'><Link to='/'>Order</Link></li>
-          <li className='font-semibold'><Link to='/'>Add Service</Link></li>
+          <li className='font-semibold'><Link to='/addservice'>Add Service</Link></li>
 
           <li className='font-semibold'><button onClick={handleLogOut} className='btn btn-outline btn-success'>Sign Out</button></li>
 
@@ -45,7 +45,7 @@ const Header = () => {
         </div>
         <Link className="btn btn-ghost normal-case text-xl" to='/'>
           {/* <img src='' alt="" /> */}
-          <h2>logo</h2>
+          <h2 className='text-green-500 font-semibold text-xl'>Food Cart</h2>
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
@@ -54,7 +54,7 @@ const Header = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <button className='btn btn-outline btn-success'>Appointment</button>
+        <button className='btn btn-outline btn-success'>Order Fast</button>
       </div>
     </div>
   );
